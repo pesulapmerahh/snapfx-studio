@@ -9,7 +9,6 @@ import ShutterButton from './ShutterButton';
 import GalleryStrip from './GalleryStrip';
 import Lightbox from './Lightbox';
 import SettingsMenu from './SettingsMenu';
-import FeatureNotification from './FeatureNotification';
 import QuadSequentialOverlay from './QuadSequentialOverlay';
 import { composeQuadPhotos } from '../utils/composeQuad';
 
@@ -177,10 +176,7 @@ const MainLayout: React.FC = () => {
         </div>
       )}
 
-      {/* Feature Notification */}
-      <div className="fixed top-20 left-1/2 -translate-x-1/2 z-[60] w-full max-w-[90vw] pointer-events-none">
-        <FeatureNotification />
-      </div>
+
 
       {/* Main Camera Area */}
       <div className="relative flex-1 min-h-0 bg-zinc-900/50">
