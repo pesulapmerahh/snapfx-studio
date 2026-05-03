@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Inter:ital,slnt,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+@import "./styles/animations.css";
+
+@layer base {
+  :root {
+    --font-display: "Fredoka", cursive;
+    --font-body: "Inter", sans-serif;
+  }
+
+  body {
+    font-family: var(--font-body);
+    @apply bg-zinc-950 text-zinc-100 antialiased overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+  }
+}
+
+@theme {
+  --font-fredoka: "Fredoka", cursive;
+  --font-inter: "Inter", sans-serif;
+  
+  --color-brand: #ff4d4d;
+  --color-brand-hover: #ff3333;
+}
