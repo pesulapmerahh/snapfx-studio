@@ -14,6 +14,7 @@
 ## 🚀 Project Pitch
 
 **SnapFX** is a premium, high-performance web application that transforms your browser into a professional-grade selfie studio. Powered by custom WebGL shaders, it offers over **80+ cinematic filters** in real-time with zero lag. Designed with a **Privacy-First** philosophy, SnapFX requires no accounts, no installations, and never uploads your photos to a server. Everything happens locally on your device, ensuring your moments remain yours and yours alone.
+[![Live Demo](https://img.shields.io/badge/demo-online-green)](https://snapfx-studio.vercel.app/)
 
 
 ---
