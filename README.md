@@ -15,14 +15,6 @@
 
 **SnapFX** is a premium, high-performance web application that transforms your browser into a professional-grade selfie studio. Powered by custom WebGL shaders, it offers over **80+ cinematic filters** in real-time with zero lag. Designed with a **Privacy-First** philosophy, SnapFX requires no accounts, no installations, and never uploads your photos to a server. Everything happens locally on your device, ensuring your moments remain yours and yours alone.
 
----
-
-## 📸 Visual Showcase
-
-> [!TIP]
-> ### 🖼️ Preview
-> ![SnapFX Demo Placeholder](https://via.placeholder.com/1200x675/09090b/e11d48?text=SnapFX+Studio+Preview+Placeholder)
-> *Replace this with your actual project screenshot or GIF!*
 
 ---
 
@@ -89,5 +81,5 @@ SnapFX is a serverless, client-side application.
 ---
 
 <p align="center">
-  Made with ✨ by the SnapFX Team
+  Made with ✨ by the pesulapmerahh
 </p>

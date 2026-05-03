@@ -12,6 +12,7 @@ const UPDATE_HISTORY = [
       'Peningkatan tampilan landing agar lebih bersih dan nyaman di mobile.',
       'Quad sequential lebih jelas dengan indikator panel aktif.',
       'Penyempurnaan kualitas rendering untuk efek yang sering dipakai.',
+      '[BUG] Quad mode belum bisa berjalan sempurna di beberapa perangkat mobile.',
     ],
   },
   {
